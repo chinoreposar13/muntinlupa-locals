@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/muntinlupa-locals/static/css/main.6c997253.chunk.css",
+    "main.js": "/muntinlupa-locals/static/js/main.3bec7cf9.chunk.js",
+    "main.js.map": "/muntinlupa-locals/static/js/main.3bec7cf9.chunk.js.map",
+    "runtime-main.js": "/muntinlupa-locals/static/js/runtime-main.7786c7f3.js",
+    "runtime-main.js.map": "/muntinlupa-locals/static/js/runtime-main.7786c7f3.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/muntinlupa-locals/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.064ab2cd.chunk.js": "/muntinlupa-locals/static/js/2.064ab2cd.chunk.js",
+    "static/js/2.064ab2cd.chunk.js.map": "/muntinlupa-locals/static/js/2.064ab2cd.chunk.js.map",
+    "static/js/3.f09e0399.chunk.js": "/muntinlupa-locals/static/js/3.f09e0399.chunk.js",
+    "static/js/3.f09e0399.chunk.js.map": "/muntinlupa-locals/static/js/3.f09e0399.chunk.js.map",
+    "index.html": "/muntinlupa-locals/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/muntinlupa-locals/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6c997253.chunk.css.map": "/muntinlupa-locals/static/css/main.6c997253.chunk.css.map",
+    "static/js/2.064ab2cd.chunk.js.LICENSE.txt": "/muntinlupa-locals/static/js/2.064ab2cd.chunk.js.LICENSE.txt",
+    "static/media/1.014cea0f.jpg": "/muntinlupa-locals/static/media/1.014cea0f.jpg",
+    "static/media/2.974ce800.jpg": "/muntinlupa-locals/static/media/2.974ce800.jpg",
+    "static/media/3.aedb3c1a.jpg": "/muntinlupa-locals/static/media/3.aedb3c1a.jpg",
+    "static/media/4.c534899c.jpg": "/muntinlupa-locals/static/media/4.c534899c.jpg",
+    "static/media/5.f30fbf99.jpg": "/muntinlupa-locals/static/media/5.f30fbf99.jpg",
+    "static/media/6.0591cd9d.jpg": "/muntinlupa-locals/static/media/6.0591cd9d.jpg",
+    "static/media/7.c5ed2382.jpg": "/muntinlupa-locals/static/media/7.c5ed2382.jpg",
+    "static/media/Hot_alien.cada4f0c.jpg": "/muntinlupa-locals/static/media/Hot_alien.cada4f0c.jpg",
+    "static/media/Hot_husga.bda64164.jpg": "/muntinlupa-locals/static/media/Hot_husga.bda64164.jpg",
+    "static/media/Hot_xunli.ae8f1a44.jpg": "/muntinlupa-locals/static/media/Hot_xunli.ae8f1a44.jpg",
+    "static/media/dbtk-logo-black.16b2e723.png": "/muntinlupa-locals/static/media/dbtk-logo-black.16b2e723.png",
+    "static/media/loading.css": "/muntinlupa-locals/static/media/loading.da57f134.gif",
+    "static/media/logo.9e54f703.svg": "/muntinlupa-locals/static/media/logo.9e54f703.svg",
+    "static/media/tk.5fff5043.jpg": "/muntinlupa-locals/static/media/tk.5fff5043.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7786c7f3.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.064ab2cd.chunk.js",
+    "static/css/main.6c997253.chunk.css",
+    "static/js/main.3bec7cf9.chunk.js"
+  ]
+}
