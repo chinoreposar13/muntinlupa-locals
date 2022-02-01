@@ -1,0 +1,19 @@
+.orders-table-functions {
+    padding: 10px;
+    min-height: 50px;
+    margin-bottom: 10px;
+    background: white !important;
+    display: table;
+    border-right: 30px solid #f0f0f0;
+}
+
+.Pending {
+    color: white;
+    background-color: rgb(255, 81, 0) !important;
+}
+.In-Transit {
+    background-color: rgb(217, 255, 0)  !important;
+}
+.Delivered {
+    background-color: rgb(0, 255, 106)  !important;
+}

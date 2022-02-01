@@ -1,0 +1,15 @@
+.footer-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    background-color: #3a3a3a;
+    color: white;
+    z-index: 9999;
+}
+
+.branches {
+    text-align: left !important;
+}

@@ -1,0 +1,33 @@
+.admin-orders-container {
+    padding: 0 10% !important;
+    width: 100%;
+}
+
+
+.Pending {
+    color: white;
+    background-color: rgb(255, 81, 0) !important;
+}
+.In-Transit {
+    background-color: rgb(217, 255, 0)  !important;
+}
+.Delivered {
+    background-color: rgb(0, 255, 106)  !important;
+}
+
+
+/* .order-container button {
+    background: #ff4d3b;
+    border: none;
+    transition:.3s ease all;
+} */
+
+.order-container button:hover, .order-container button:active, .order-container button:visited, .order-container button:focus {
+    background: #a51d10;
+    border:none !important
+}
+.order-container {
+    padding: 20px 100px;
+    background: #f0f0f0;
+    /* height: 100vh; */
+}

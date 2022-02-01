@@ -1,0 +1,80 @@
+.banner-container {
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    position: relative;
+    display: block;
+    top: 0;
+    border-bottom: 1px solid grey;
+}
+
+.banner-logo {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+.header {
+  z-index: 9999;
+  position: fixed;
+  top: 0;
+  left: 0%;
+  width: 100%;
+}
+.header-container {
+    width: 100%;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    position: relative;
+    top: auto;
+}
+
+.nav-items-container {
+    margin: 10px 0 10px 0 !important;
+}
+
+.nav-item { 
+    padding: 0 20px;
+}
+a.nav-link {
+    color: white;
+}
+a.nav-link.active {
+    background-color: gray;
+    color: black;
+}
+
+.fade-in-image {
+    animation: fadeIn 5s;
+    -webkit-animation: fadeIn 5s;
+    -moz-animation: fadeIn 5s;
+    -o-animation: fadeIn 5s;
+    -ms-animation: fadeIn 5s;
+  }
+  @keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }

@@ -1,0 +1,36 @@
+.carousel-inner {
+    width: 90%;
+    height: 40em;
+    overflow: hidden;
+    /* padding: auto; */
+    text-align: center;
+}
+.slideItem {   
+    /* height: 99999px; */
+    object-fit:contain;
+    max-height: 100%;
+    max-width: 100%;    
+    display: block;
+    margin: auto auto;
+}
+
+.separator {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .separator::before,
+  .separator::after {
+    content: '';
+    flex: 1;
+    border-bottom: 0.5px solid #000;
+  }
+  
+  .separator:not(:empty)::before {
+    margin-right: .25em;
+  }
+  
+  .separator:not(:empty)::after {
+    margin-left: .25em;
+  }

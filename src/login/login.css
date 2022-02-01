@@ -1,0 +1,11 @@
+@import "../assets/themes.css";
+
+.login-remember-container {
+    text-align: right !important;
+    width: 100%;
+    display: inline-block;
+}
+
+.login-remember-container > .btn-login {
+    right: 0;
+}

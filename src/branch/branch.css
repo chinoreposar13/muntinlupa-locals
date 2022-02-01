@@ -1,0 +1,20 @@
+.branch-item-container {
+    width: auto;
+    height: auto;
+    min-height: 300px;
+    max-width: 300px;
+    max-height: 300px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    border: #c1c1c1 1px solid;
+    padding: 20px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+
+.branches-link{
+    color: #000000 !important;
+  }
